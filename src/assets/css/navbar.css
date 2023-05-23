@@ -1,0 +1,13 @@
+.custom-navbar {
+  min-height: 10vh;
+  background-color: #242424 !important;
+  color: #fff !important;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+    rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.navbar a,
+span {
+  color: #fff !important;
+  cursor: pointer;
+}

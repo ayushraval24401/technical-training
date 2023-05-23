@@ -1,0 +1,13 @@
+.dashboard {
+  max-height: 80vh;
+  padding-top: 20px;
+}
+
+.btn {
+  border-radius: 0px !important;
+  min-width: 100px !important;
+}
+
+.rdt_TableCol {
+  justify-content: center !important;
+}
